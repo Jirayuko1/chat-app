@@ -7,26 +7,15 @@ A modern, real-time messaging application built with **Flutter**.
 
 * **Real-time Messaging:** ส่งและรับข้อความได้ทันทีแบบไม่มีสะดุด (Low latency)
 * **User Authentication:** ระบบสมัครสมาชิกและเข้าสู่ระบบที่ปลอดภัย (Email/Password, Social Login)
-* **Media Sharing:** รองรับการส่งรูปภาพและไฟล์ต่างๆ ในห้องแชท
 * **Group Chats:** สร้างกลุ่มสนทนาและพูดคุยกับเพื่อนหลายคนได้พร้อมกัน
-* **Push Notifications:** แจ้งเตือนทันทีเมื่อมีข้อความใหม่
 * **Clean & Responsive UI:** หน้าจอถูกออกแบบมาให้ใช้งานง่าย รองรับทั้ง iOS และ Android
 
 ## Tech Stack (เทคโนโลยีที่ใช้พัฒนา)
 
 * **Frontend:** Flutter & Dart
-* **Backend:** [ระบุ Backend ที่คุณใช้ เช่น Firebase / Node.js / Python FastAPI]
-* **Database:** [ระบุ Database เช่น Cloud Firestore / PostgreSQL / MongoDB]
-* **State Management:** [เช่น Provider / Riverpod / BLoC / GetX]
+* **Backend:** Backend ที่ใช้ เช่น Firebase
+* **Database:** Database เช่น Cloud Firestore
 
-## Getting Started (วิธีการติดตั้งและรันโปรเจกต์)
-
-If you want to run this project locally, follow these steps:
-
-### Prerequisites (สิ่งที่ต้องติดตั้งไว้ก่อน)
-* [Flutter SDK](https://docs.flutter.dev/get-started/install) (Version x.x.x)
-* [Dart](https://dart.dev/get-dart)
-* IDE: VS Code or Android Studio
 
 ### Installation (วิธีติดตั้ง)
 
